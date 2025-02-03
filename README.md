@@ -8,7 +8,7 @@ Aspiring Cybersecurity Engineer with a strong foundation in penetration testing,
 ### **Cybersecurity & Digital Forensics (BSc, Technological University Dublin)**  
 
 📌 **[Conti Ransomware Analysis – Longitudinal Study]**  
-- Conducted a detailed analysis of the **Conti ransomware family** from 2020-2024, identifying **code evolution and evasion techniques**.  
+- Conducted a detailed manual and automated analysis of the **Conti ransomware family** from 2020-2024, identifying **code evolution and evasion techniques**.  
 - Developed **YARA rules** for malware detection and mapped behavior to the **MITRE ATT&CK framework**.  
 - Utilized **FlareVM, Remnux, INetSim, and FakeDNS** in a secure malware analysis lab.  
 
