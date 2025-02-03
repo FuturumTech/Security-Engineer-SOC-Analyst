@@ -52,4 +52,3 @@ Aspiring Cybersecurity Engineer with a strong foundation in penetration testing,
 
 ### 📫 **Connect with Me**  
 📧 **Email:** konefalsebastian@gmail.com  
-🔗 **LinkedIn:** https://github.com/FuturumTech/Security-Engineer-SOC-Analyst  
